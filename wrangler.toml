@@ -1,6 +1,0 @@
-name = "strategic-search-consulting"
-main = "worker.js"
-compatibility_date = "2025-10-21"
-
-[site]
-bucket = "./public"
